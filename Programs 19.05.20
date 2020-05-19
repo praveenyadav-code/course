@@ -1,4 +1,4 @@
-PROGRAM 5
+PROGRAM 1
 import java.util.Scanner;
 
 public class ShortestPalindromeDemo {
